@@ -1,0 +1,18 @@
+form {
+    margin-top: 2rem;
+}
+
+form .output {
+    margin-top: 3rem; 
+}
+
+form .download-button {
+    width: 150px;
+    float: right;
+    margin-top: 5px; 
+}
+
+form h6 {
+    padding-top: 5px;
+    float: left;
+}
